@@ -6,6 +6,8 @@ steps to follow.
 3. Debug the app.py and click on the link in the terminal.
 4. A big mart form will open give the input and submit.
 
+Note: I have made a master branch for the convenience.
+
 ## For Queries:
 Email: devvijaywargiya12@gmail.com
 
