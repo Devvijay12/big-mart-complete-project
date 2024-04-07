@@ -42,3 +42,6 @@ def result():
 
 if __name__ == "__main__":
     app.run(debug=True, port=9457)
+
+
+# Use this to run the function flask --app app run
